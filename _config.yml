@@ -1,0 +1,8 @@
+title: "Melissa Halim"
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+# Optional settings
+repository: melissahalim-hub/melissahalim.github.io
+markdown: kramdown
